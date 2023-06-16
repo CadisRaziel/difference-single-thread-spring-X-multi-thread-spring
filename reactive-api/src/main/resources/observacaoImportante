@@ -1,0 +1,3 @@
+o spring reativo não conseguimos inicializar o banco pois ele nao tem suporte, exemplo a tabela no banco com as columna nao existe
+então nao daria certo com o spring webflux
+temos que criar a tebla no banco com as colunas ja inicializadas
